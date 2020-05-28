@@ -51,11 +51,11 @@
 	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
                 </div>
 
-                <div class="form-group field-birthday">
+                <!--div class="form-group field-birthday">
 	                <label for="birthday" class="control-label">Your Birthday</label>
 	                <input type="date" name="birthday" t-att-value="birthday" id="birthday" class="form-control" t-att-readonly="'readonly' if only_passwords else None"
 	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
-            	</div>
+            	</div-->
             </xpath>
         </template>
     </data>
