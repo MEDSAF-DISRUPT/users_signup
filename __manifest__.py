@@ -3,7 +3,7 @@
     'version': '12.0.1.0.0',
     'category': 'Website',
     'sequence': 1,
-    'author': 'Ewetoye, Ibrahim',
+    'author': 'Ewetoye Ibrahim',
     'website': 'Medsaf.com',
     'depends': ['auth_signup'],
     'data': [
